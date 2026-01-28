@@ -1,6 +1,6 @@
-- 👋 Good morning, afternoon or evenin wherevern and whenever you are! I’m Abrar
-- 👀 I am currently pursuing an Information Systems Degree at the University of Delaware alongside a Business Admin Minor
-- 🌱 Currently I enjoy working with Python and SQL the most, but I do have prior experience with: C, C++, TypeScript, Java and R
+- 👋 Good morning, afternoon or evenin wherever and whenever you are! I’m Abrar
+- 👀 Currently pursuing an Information Systems Degree at the University of Delaware alongside a Business Admin Minor
+- 🌱 My GitHub page is designed to my collection of notes, project overviews, write-ups and various school work I have done over the years
 - 📫 Contact Info: [LinkedIn](https://www.linkedin.com/in/abrar-nomani/)
 
 <!---
