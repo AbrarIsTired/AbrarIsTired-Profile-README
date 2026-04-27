@@ -1,4 +1,4 @@
-# Hello there, I'm Abrar 👋
+# Hello there, I'm Abrar 
 
 I'm an Information Systems student at the University of Delaware (graduating May 2026) with a focus on IT infrastructure and systems administration.
 
@@ -18,7 +18,7 @@ I'm an Information Systems student at the University of Delaware (graduating May
 
 ## 🚀 Current Projects
 
-- Maintaining production homelab infrastructure ([check it out](https://github.com/AbrarIsTired/abrar-home-server))
+- Maintaining production homelab infrastructure ([Repo Link](https://github.com/AbrarIsTired/abrar-home-server))
 - Building Python projects and automation scripts
 - Documenting my infrastructure learning journey
 
@@ -30,4 +30,3 @@ I'm an Information Systems student at the University of Delaware (graduating May
 
 ---
 
-*Always learning, always building, occasionally tired* 😅
