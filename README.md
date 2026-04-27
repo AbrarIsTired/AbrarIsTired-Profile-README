@@ -25,7 +25,7 @@ I'm an Information Systems student at the University of Delaware (graduating May
 ## 📫 Let's Connect
 
 - 📧 Email: abrarnomani2004@gmail.com
-- 💼 LinkedIn: [your-linkedin-url]
+- 💼 LinkedIn: [https://www.linkedin.com/in/abrar-nomani?utm_source=share_via&utm_content=profile&utm_medium=member_android]
 - 🎓 Graduating: May 2026
 
 ---
