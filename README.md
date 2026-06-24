@@ -1,32 +1,28 @@
-# Hello there, I'm Abrar 
+# Hello there, I'm Abrar
 
-I'm an Information Systems student at the University of Delaware (graduating May 2026) with a focus on IT infrastructure and systems administration.
+Information Systems graduate from the University of Delaware (B.S., May 2026) focused on IT infrastructure and systems administration.
 
 ## 🔧 What I Do
 
-- **IT Infrastructure:** Running a dual-server Ubuntu homelab with VPN security, file services, and automated backups
-- **Technical Support:** 4 years of hands-on experience in hardware/software troubleshooting and customer service
-- **Automation:** Writing Bash scripts to automate routine maintenance and backup workflows
-- **Learning:** Currently exploring cloud infrastructure (Azure) and network fundamentals (Cisco)
+- **IT Infrastructure:** Running a self-managed dual-server Ubuntu homelab with VPN security, file services, monitoring, and automated backups
+- **Systems Administration:** Hands-on lab experience with Active Directory, Windows Server, and Microsoft Azure
+- **Technical Support:** 4 years of hardware/software troubleshooting and end-user support
+- **Automation:** Writing Bash and Python scripts for routine maintenance, backups, and monitoring
+- **Learning:** Currently studying for CompTIA Network+ and Microsoft AZ-900
 
 ## 💻 Technical Skills
 
-**Systems:** Windows, Linux (Ubuntu Server), CLI administration  
-**Infrastructure:** Docker, VirtualBox, SSH, Tailscale VPN, UFW  
-**Scripting:** Bash, Python, Git  
-**Tools:** Samba, Jellyfin, Syncthing, RepairShopr, Jira
+**Systems:** Windows, Linux (Ubuntu Server), macOS, Active Directory, Windows Server, CLI administration
+**Infrastructure:** Docker, VirtualBox, SSH, Tailscale VPN, UFW, Microsoft Azure
+**Scripting:** Bash, Python, Git
+**Tools:** Samba, Jellyfin, Syncthing, RepairShopr, Jira, Confluence
 
-## 🚀 Current Projects
+## 🚀 Projects
 
-- Maintaining production homelab infrastructure ([Repo Link](https://github.com/AbrarIsTired/abrar-home-server))
-- Building Python projects and automation scripts
-- Documenting my infrastructure learning journey
+- [Dual-Server Infrastructure](https://github.com/AbrarIsTired/abrar-home-server): self-hosted homelab with monitoring, VPN security, and automated backups
+- Active Directory Lab: Windows Server 2025 domain controller deployed on Azure, with OU/user provisioning and restricted RDP access
 
 ## 📫 Let's Connect
 
 - 📧 Email: abrarnomani2004@gmail.com
-- 💼[LinkedIn](https://www.linkedin.com/in/abrar-nomani?utm_source=share_via&utm_content=profile&utm_medium=member_android) 
-- 🎓 Graduating: May 2026
-
----
-
+- 💼 [LinkedIn](https://www.linkedin.com/in/abrar-nomani/)
